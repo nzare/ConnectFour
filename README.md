@@ -2,7 +2,7 @@
 A Java based Software Application game (Connect Four Game) created with JavaFx. 
 
 
-### Intial Screens
+### Initial Screens
 <p>
   <img src="screenshots/Image1.JPG" width="48%" />
   <img src="screenshots/Image2.JPG" width="48%" /> 
